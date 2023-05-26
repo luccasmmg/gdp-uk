@@ -2,7 +2,7 @@ UK Real GDP since 1948 from the Office of National Statistics.
 
 ## Data
 
-Annual and quarterly data in <data/data.csv> The GDP measure is a chained volume measure and is
+Annual and quarterly data in data/data.csv The GDP measure is a chained volume measure and is
 seasonally adjusted.
 
 Extracted from [https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/abmi/qna](https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/abmi/qna)
